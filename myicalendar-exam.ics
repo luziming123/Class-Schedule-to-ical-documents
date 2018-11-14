@@ -1,8 +1,0 @@
-BEGIN:VCALENDAR #日历开始
-PRODID:-//Google Inc//Google Calendar 70.9054//EN #软件信息
-VERSION:2.0 #遵循的 iCalendar 版本号
-CALSCALE:GREGORIAN #历法：公历
-METHOD:PUBLISH #方法：公开 也可以是 REQUEST 等用于日历间的信息沟通方法
-X-WR-CALNAME:课程表
-X-WR-TIMEZONE:Asia/Shanghai #通用扩展属性，表示时区
-BEGIN:VEVENT #事件开始
